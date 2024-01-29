@@ -164,8 +164,8 @@ const projects = () => {
               <FeatureProject
                 type={"FEATURE PROJECT"}
                 title={"P O R T F O L I O"}
-                 link="https://github.com/aniket0608/Notepad"
-                github={"https://github.com/aniket0608/Notepad"}
+                 link="https://aniketshahi.vercel.app/"
+                github={"https://github.com/aniket0608/Ani_Portfolio"}
                 img={Portfolioimg}
                 summary="This project is a simple Notepad application developed in C# using Windows Forms. The application provides basic text editing and file management functionalities. Here are the key features: New File Creation: The application allows users to create a new file by clearing the existing text in the text editor. This is triggered by clicking on the 'New' option in the menu."
               />
