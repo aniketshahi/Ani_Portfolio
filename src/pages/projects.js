@@ -134,8 +134,8 @@ const projects = () => {
               <FeatureProject
                 type={"FEATURE PROJECT "}
                 title={"M O O N T R I P"}
-                link="https://aniket0608.github.io/MoonWalk-aniket0608.github.io/"
-                github={"https://github.com/aniket0608/MoonWalk-aniket0608.github.io"}
+                link="https://aniketshahi.github.io/MoonWalk-aniketshahi.github.io/"
+                github={"https://github.com/aniketshahi/MoonWalk-aniketshahi.github.io"}
                 img={Placeprepimg}
                 summary="The Moon Trip website is designed to provide information about the first civilian mission to the Moon, planned to take place in 2023. It includes details about the rocket developed by SpaceX, the starship and suit, the mission schedule, archives, and the option to book tickets."
               />
@@ -144,8 +144,8 @@ const projects = () => {
               <FeatureProject
                 type={"FEATURE PROJECT"}
                 title={"P O R T F O L I O"}
-                link="https://aniket0608.github.io/portfolio-aniket0608.github.io/"
-                github={"https://github.com/aniket0608/portfolio-aniket0608.github.io"}
+                link="https://aniketshahi.github.io/portfolio-aniketshahi.github.io/"
+                github={"https://github.com/aniketshahi/portfolio-aniketshahi.github.io"}
                 img={zostelimg}
                 summary="This project is a personal website for Me, a B.Tech-M.Tech (Integrated) Computer Science and Engineering student. The website serves as a digital portfolio, showcasing my skills, interests, and contact information. Here are the key sections: Header: The header contains the navigation bar with links to different sections of the website. The brand name Aniket Shahi is also part of the header."
               />
@@ -154,8 +154,8 @@ const projects = () => {
               <FeatureProject
                 type={"FEATURE PROJECT"}
                 title={"N O T E P A D"}
-                 link="https://github.com/aniket0608/Notepad"
-                github={"https://github.com/aniket0608/Notepad"}
+                 link="https://github.com/aniketshahi/Notepad"
+                github={"https://github.com/aniketshahi/Notepad"}
                 img={fabimg}
                 summary="This project is a simple Notepad application developed in C# using Windows Forms. The application provides basic text editing and file management functionalities. Here are the key features: New File Creation: The application allows users to create a new file by clearing the existing text in the text editor. This is triggered by clicking on the 'New' option in the menu."
               />
@@ -165,7 +165,7 @@ const projects = () => {
                 type={"FEATURE PROJECT"}
                 title={"P O R T F O L I O"}
                  link="https://aniketshahi.vercel.app/"
-                github={"https://github.com/aniket0608/Ani_Portfolio"}
+                github={"https://github.com/aniketshahi/Ani_Portfolio"}
                 img={Portfolioimg}
                 summary="This project is a simple Notepad application developed in C# using Windows Forms. The application provides basic text editing and file management functionalities. Here are the key features: New File Creation: The application allows users to create a new file by clearing the existing text in the text editor. This is triggered by clicking on the 'New' option in the menu."
               />
