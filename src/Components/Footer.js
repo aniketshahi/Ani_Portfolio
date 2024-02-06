@@ -16,7 +16,7 @@ const Footer = () => {
           &nbsp;by
           &nbsp;
           <Link
-            href={"https://github.com/aniket0608"}
+            href={"https://github.com/aniketshahi"}
             className={"underline"}
             target="_blank"
           >
