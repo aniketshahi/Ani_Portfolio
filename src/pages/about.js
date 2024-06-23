@@ -74,7 +74,7 @@ const About = () => {
             <div className="col-span-3 relative h-max rounded-2xl border-2 rounded-br-xl border-solid border-dark bg-light p-3 dark:bg-dark dark:border-primaryDark xl:col-span-4 md:order-1 md:col-span-8">
               <div className="absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-dark rounded-br-3xl dark:bg-primary " />
               <Image
-                src={ProfilePic}
+                src={"/images/profile/IMG_8967.jpg"}
                 alt="Profile Pic"
                 className="w-full h-auto rounded-2xl border-solid border-2 dark:border-primaryDark"
                 priority
